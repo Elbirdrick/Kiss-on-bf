@@ -1,4 +1,7 @@
 # Kiss-on-bf
+
+go to tags for files
+
 Tuning bf to behave like kiss
 apply the below to cli remember to save after each line is entered. will force reboot each time.
 
