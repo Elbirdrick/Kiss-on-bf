@@ -12,3 +12,6 @@ set yaw_deadband = 10
 (save)
 
 the text file with the tune is for the t motor lite fc on stm32 config so just use the config numbers from the settings to configure. it could brick your fc if you dont have the same and just dump it
+
+
+also have attached images for tune from bf to make set up in bf easier but you will need the cli commands 
