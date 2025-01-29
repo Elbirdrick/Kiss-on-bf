@@ -10,3 +10,5 @@ set deadband = 10
 (save)
 set yaw_deadband = 10
 (save)
+
+this is for the t motor lite fc on stm32 config so just use the config numbers from the settings to configure. it could brick your fc if you dont have the same and just dump it
